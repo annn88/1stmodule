@@ -1,0 +1,10 @@
+num1=int(input("Enter number 1:"))
+num2=int(input("Enter number 2:"))
+num3=int(input("Enter number 3:"))
+print("The sum of num 1 and num 2 is:",num1+num2)
+print("The difference when num 2 is subtracted from num 1 is :",num2-num1)
+print("the product of num1 and num2 is",num1*num2)
+print("the quotient when num1 is divided by num 2 is:",num1/num2)
+print("the remainder when num1 is divided by num2 is:",num1%num2)
+result=(num1+num2)*num3/num2
+print("the result of num1+num2*num3/num2:",result)
